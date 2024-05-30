@@ -24,6 +24,7 @@ setup(
     name="Student",
     version='0.0.1',
     author='Heaven',
+    author_email='heavenkaur234@gmail.com',
     packages = find_packages(),
     install_requires = get_requirements('requirements.txt')
     )
